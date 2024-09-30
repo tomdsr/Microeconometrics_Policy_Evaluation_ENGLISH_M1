@@ -1,9 +1,7 @@
-* TSE Program Evaluation M1 - TP2: RCTs 
-*** Jan 2021
-
 clear all
 
-global dir = "C:\Users\User\Google Drive\TSE\Teaching\Program Evaluation 2020-2021\Lab sessions\Lab 2"
+* Change the following
+global dir = "C:\Users\Username\Stata"
 ************************
 *set directory and load data
 ************************
